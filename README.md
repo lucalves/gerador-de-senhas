@@ -2,7 +2,7 @@
 
 Crie uma senha forte e segura, de forma simples.
 
-## 📷 Captura de Tela
+## 📸 Captura de Tela
 
 ![Screenshot](./.github/screenshot.png)
 

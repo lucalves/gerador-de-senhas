@@ -1,6 +1,6 @@
 # gerador-de-senhas
 
-Aplicativo web simples para criar uma senha forte e segura, de forma simples e fácil.
+Aplicativo web criado para criar uma senha forte e segura, de forma simples e fácil.
 
 ## 📸 Captura de Tela
 

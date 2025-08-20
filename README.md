@@ -4,7 +4,7 @@ Aplicativo web criado para criar uma senha forte e segura, de forma simples e f�
 
 ## 📸 Captura de Tela
 
-![Screenshot](./.github/screenshot.png)
+![Captura](./.github/screenshot.png)
 
 ## 🚀 Tecnologias
 
